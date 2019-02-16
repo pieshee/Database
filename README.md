@@ -1,4 +1,4 @@
 # Database
 ````````````````````````````
-here  I discover Sql & NoSql 
+here I discover Sql & NoSql 
 ````````````````````````````
