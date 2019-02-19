@@ -1,5 +1,5 @@
 Database
 ````````````````````````````
-here I discover Sql & NoSql 
+discover Sql & NoSql 
 ````````````````````````````
  
