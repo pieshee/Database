@@ -1,6 +1,6 @@
 Database
 ````````````````````````````
 discover Sql & NoSql 
-learn db in a different way
+with solving reference books problems
 ````````````````````````````
  
