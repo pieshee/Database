@@ -1,6 +1,5 @@
 Database
 ````````````````````````````
-discover Sql & NoSql 
-with solving reference books problems
+discover Sql & NoSql with solving reference books problems
 ````````````````````````````
  
